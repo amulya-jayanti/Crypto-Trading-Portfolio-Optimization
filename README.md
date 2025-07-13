@@ -97,3 +97,11 @@ Bridging machine learning with investment decision-making
 8 Cryptocurrencies: Bitcoin, Ethereum, Tether, Solana, Dogecoin, TrumpCoin, XRP, Binance Coin\
 Time Period: Jan 2021 – Jan 2025\
 Level: Daily frequency
+
+Prophet Model Results:
+Asset     Train sMAPE   Test sMAPE
+Solana     2.27%          1.78%
+Doge Coin  3.69%          2.07%
+Ethereum   1.08%          0.63%
+Bitcoin    0.83%          0.87%
+
